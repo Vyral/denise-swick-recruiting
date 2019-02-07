@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Dayton's Best Real Estate Training"
+description: Denise Swick, a top Real Estate Agent in Dayton, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,23 @@ custom_links:
 
 
 client:
-  name:
+  name: Denise Swick
   title:
   license_number:
   about_markdown: |
+    Denise Swick is a nationally respected real estate broker, leading a talent team of professionals to create memorable experiences for her clients. She uses her understanding of the Dayton area, honed with over two decades of working in the area, to devise the best plan of action for buying or selling a home. Her approach is one of honesty and integrity, looking to give each person she works with unforgettable results.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Her approach to the industry has evolved over time, going from one woman on a mission to developing a team of like-minded individuals with the same drive she possesses. This team approach benefits the people that work with her RE/MAX Performance, providing more attention to every detail of the real estate experience. She is actively involved with each aspect of the business, inspiring and motivating her staff to achieve the best results.
+  market: Dayton
+  brand: Denise Swick & Company
+  brokerage: RE/MAX
+  address: 318 Regency Ridge Dr., Centerville, OH 45459
+  phone: 937-619-7447
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: denise@deniseswick.com
+  url: http://www.deniseswick.com
 
 lender:
   show_section: false
@@ -44,7 +46,7 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/DeniseSwick
   linkedin_url:
   gplus_url:
   youtube_url:
@@ -74,8 +76,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#FAC207'
+  theme_color: '#4A4A4A'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

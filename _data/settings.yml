@@ -24,12 +24,12 @@ client:
   market: Dayton
   brand: Denise Swick & Company
   brokerage: RE/MAX
-  address: 318 Regency Ridge Dr., Centerville, OH 45459
+  address: 7007 Corporate Way, Dayton, OH 45459
   phone: 937-619-7447
-  phone_type:
-  phone2:
-  phone2_type:
-  email: denise@deniseswick.com
+  phone_type: Denise
+  phone2: 937-619-7450
+  phone2_type: Greg
+  email: careers@deniseswick.com
   url: http://www.deniseswick.com
 
 lender:

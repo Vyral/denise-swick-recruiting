@@ -1400,17 +1400,17 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 1.5rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 1.5rem; }
   .navbar-right a {
     font-weight: bold;
-    color: #A92D31; }
+    color: #fff; }
 
 .nav-logo {
   float: left !important;
-  max-width: 400px;
+  max-width: 425px;
   margin: 5px;
   padding: 10px; }
 
@@ -1422,8 +1422,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 325px;
-    margin-top: -10px; } }
+    max-width: 300px;
+    margin-top: -2px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1508,7 +1508,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 5.5rem; }
 
 .site-logo {
   width: 90%;

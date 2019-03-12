@@ -34,20 +34,31 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"I had interviewed several brokers and agencies before I even got started in real estate.  I was looking for direction in getting started. I was looking for a broker who would teach me real estate. After I had got my license I spent the next year with 4 different brokerages. Every broker was a gifted sales person. All of them had sold me on how much time they would spend with me, teaching me real estate, building my pipeline, and contracts. After I got started with each of them it was apparent they were all there to just get my monthly fees. Learning was self taught.  But then I found Denise Swick. She has taught me more about this business in 60 days than I had learned the prior year. She works with me every single day on growing my business and expanding my knowledge in the real estate industry.  She is personally invested in my success. Denise is why I am still in the real estate industry with a positive outlook on my future success."  </span><br>
+<span class="author">- Mark Woodring</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"Working in another real estate office, I sought Denise out from her positive reputation and asked her advice on a few issues, she took the time to coach me once a week and this was several years ago. Denise Offers a common sense approach to selling while others try magic formulas or offer excuses, her common sense approach is unrivaled in today's market. As a new agent looking to gain knowledge or training let her 30+ years of experience guide you and keep you at the forefront in what is a competitive market. Others may promise you the world, but once you are signed up the cheerleaders disappear, mentors are scarce and you are left to fend for yourself."</span><br>
+<span class="author">- Bryan Ogletree</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"Here are a few things:<br>
+1. The training and systems are in place in order for you to succeed at a high level, the only question you have to ask yourself is, Are you willing to do what it takes to have a life that you’ve always dreamed of?<br><br>
+
+2. Training at a high level, so you can have the freedom that all agents talk about having, but very few have!<br><br>
+
+3. If you are willing to take the time to write out, chant, role-play the necessary scripts, so that you can memorize and internalize them, and the objections that come with, on a daily basis…you can get the confidence to know that you can talk to fewer people to get qualified appointments! Which in return will get you contracts signed and commission checks!<br><br>
+
+4. While the process may be tedious, mind numbing, and sometimes you may feel like you are making no progress….keep pushing, you are on your way to becoming a Great Agent! Nothing in life that is worth having or enjoying, comes without Hard Work!<br><br>
+
+5. I promise, when you get into a rhythm….things will start happening. You will see appointments, better ratios in your prospecting, people will start dropping in your lap….I can’t explain it…IT JUST HAPPENS!<br><br>
+
+6. With everything Denise has to offer, why would you want to work anywhere else….the training is the MAJOR KEY difference that sets us apart from the rest of the market. Its FREE! Take advantage of it and if you do, you just might be able to do all the things you have every wanted…..GO GET IT! It is up to you….it works if you work! I am not sure how to explain it…..It’s Hard work, but it’s not Hard work."</span><br>
+<span class="author">- Greg Swartz</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 

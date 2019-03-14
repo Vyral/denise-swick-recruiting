@@ -42,7 +42,7 @@ permalink: /strategy-call/
 <span class="author">- Mark W</span></p>
 
 <p><span class="quote">"Working in another real estate office, I sought Denise out from her positive reputation and asked her advice on a few issues, she took the time to coach me once a week and this was several years ago. Denise Offers a common sense approach to selling while others try magic formulas or offer excuses, her common sense approach is unrivaled in today's market. As a new agent looking to gain knowledge or training let her 30+ years of experience guide you and keep you at the forefront in what is a competitive market. Others may promise you the world, but once you are signed up the cheerleaders disappear, mentors are scarce and you are left to fend for yourself."</span><br>
-<span class="author">- Bryan Ogletree</span></p>
+<span class="author">- Bryan O</span></p>
 
 <p><span class="quote">"Here are a few things:<br>
 1. The training and systems are in place in order for you to succeed at a high level, the only question you have to ask yourself is, Are you willing to do what it takes to have a life that you’ve always dreamed of?<br><br>
@@ -56,7 +56,7 @@ permalink: /strategy-call/
 5. I promise, when you get into a rhythm….things will start happening. You will see appointments, better ratios in your prospecting, people will start dropping in your lap….I can’t explain it…IT JUST HAPPENS!<br><br>
 
 6. With everything Denise has to offer, why would you want to work anywhere else….the training is the MAJOR KEY difference that sets us apart from the rest of the market. Its FREE! Take advantage of it and if you do, you just might be able to do all the things you have every wanted…..GO GET IT! It is up to you….it works if you work! I am not sure how to explain it…..It’s Hard work, but it’s not Hard work."</span><br>
-<span class="author">- Greg Swartz</span></p>
+<span class="author">- Greg S</span></p>
 </div>
 <hr>
 

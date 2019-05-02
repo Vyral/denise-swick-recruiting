@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Craft Your Buyers’ Offers in Today’s Market
-date: 2019-04-29 17:15:13
+title: 5 Ways to Get Your Buyers Offer Accepted When There’s Multiple
+date: 2019-04-29 17:15:00
 tags:
 excerpt: >-
   What can you do to ensure that your buyers’ offers are accepted? Here’s some
@@ -32,4 +32,4 @@ What is the one thing that sellers hate when going through inspections? Seeing t
 
 Finally, make sure that you reach out to the seller’s agent. Ask them what their seller wants out of the transaction besides price. This helps you in advance to tailor your offer to what the seller wants. Giving the seller time to move out, for example, can be a huge factor for sellers and could help your buyer win the home.
 
-I hope these tips were all helpful to you. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+I hope these tips were all helpful to you. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>

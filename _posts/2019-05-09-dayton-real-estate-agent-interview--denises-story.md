@@ -16,5 +16,3 @@ youtube_code: AZai-IdDTok
 Hear how Denise Swick built her real estate business in Dayton, her tips for success, and her goals for the future.
 
 {% include youtube.html %}
-
-{% include pullquote.html %}

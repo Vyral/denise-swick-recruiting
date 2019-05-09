@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Become a Top Agent in the Field
-date: 2019-05-09 17:48:54
+date: 2019-05-09 17:48:00
 tags:
 excerpt: >-
   What separates regular agents from top agents? Today I’ll lay out what it

@@ -28,6 +28,8 @@ Depending on the type of financing, removing the appraisal contingency may be an
 
 Next, earnest money is crazy important. It indicates the buyer’s willingness to agree to the terms and conditions in the contract. **We all know that 99% of the time, there are so many conditions and contingencies that there are multiple ways for buyers to back out if something changes.** The more earnest money you give, the more skin in the game you have, and sellers respect that.
 
+{% include events-cta.html %}
+
 What is the one thing that sellers hate when going through inspections? Seeing that long list of inspection items. To combat that, we’ve started writing into our contracts in a way that the inspections are for the buyer’s peace of mind and for health and safety issues only. **This is telling the sellers that you're not planning on nitpicking the report**, and unless something is a safety issue, you probably won’t ask to get it fixed.
 
 Finally, make sure that you reach out to the seller’s agent. Ask them what their seller wants out of the transaction besides price. This helps you in advance to tailor your offer to what the seller wants. Giving the seller time to move out, for example, can be a huge factor for sellers and could help your buyer win the home.

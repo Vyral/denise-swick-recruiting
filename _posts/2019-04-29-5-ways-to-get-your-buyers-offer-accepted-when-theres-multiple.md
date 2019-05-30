@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MEBrlqb0aN4
+youtube_code: gKCdKovj-lo
 ---
 
 {% include youtube.html %}

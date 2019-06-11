@@ -1,10 +1,8 @@
 ---
 layout: post
 title: How to Become a Top Agent in the Field
-date: 2019-06-11 18:30:22
+date: 2019-06-11 06:30:00
 tags:
-  - Real Estate
-  - Recruiting
 excerpt: >-
   What separates regular agents from top agents? Today I’ll lay out what it
   takes to make your career more than just average.

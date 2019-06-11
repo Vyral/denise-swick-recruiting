@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Craft Your Buyers’ Offers in Today’s Market
-date: 2019-06-11 06:16:00
+date: 2019-05-15 06:16:00
 tags:
   - Buyer Prospects
 excerpt: >-

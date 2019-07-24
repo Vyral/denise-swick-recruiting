@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When NO doesn't mean NO
-date: 2019-07-24 17:10:26
+date: 2019-07-24 17:10:00
 tags:
 excerpt:
 enclosure:

@@ -20,7 +20,7 @@ youtube_code: BlnnwYI4kk4
 
 {% include youtube.html %}
 
-There are three key things an agent should do in order to become a top-producer in the industry:
+There are three key things an agent should do in order to become a top producer in the industry:
 
 **1\. Follow a consistent schedule.** This is the hardest thing for an independent contractor to do because for them, there’s no one to hold them accountable for coming into work at a specific time or to get any particular results. Even in a regular job, there are certain, measurable things that you have to do every day, and unfortunately, the independent contractor setup takes away a lot of natural accountability. If people wonder why real estate agents don’t have more paychecks, it’s because they’re not following a reasonable schedule that both allows time for their business and their personal lives.
 

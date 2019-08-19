@@ -34,7 +34,7 @@ One of my first business coaches once said, “There are people that you know an
 
 **3\. Constantly and aggressively follow up with leads.** Once you learn to talk to people and you start getting leads and opportunities, you have got to follow up on it. Sometimes it can literally take three to seven conversations to get a buyer or a seller to say ‘yes’; depending on where they are in the process, it could take more or less.&nbsp;
 
-Our definition of a qualified lead is someone who is willing to undergo a transaction with us and wants to do so within the next 30 days. Given that, we have a pretty strict follow up schedule; we don’t want the dead weight to cloud all of the other golden opportunities that are out there.
+Our definition of a qualified lead is someone who is willing to undergo a transaction with us and wants to do so within the next 30 days. Given that, we have a pretty strict follow-up schedule; we don’t want the dead weight to cloud all of the other golden opportunities that are out there.
 
 Most agents are independent contractors—they’re not on teams, they’re not in an environment that supports accountability. Taking today’s three qualities of a top agent to heart will absolutely help bring your career from failure to success.
 
